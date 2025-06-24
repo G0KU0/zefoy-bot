@@ -1,10 +1,1 @@
-{
-  "build": {
-    "env": {
-      "PYTHONUNBUFFERED": "1"
-    }
-  },
-  "start": {
-    "cmd": "python main.py"
-  }
-}
+delete main
