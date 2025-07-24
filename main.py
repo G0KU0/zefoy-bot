@@ -2,7 +2,7 @@ import asyncio
 from playwright.async_api import async_playwright
 import time
 
-video_url = "https://www.tiktok.com/@sezeeeen0/video/7518638187737107743"
+video_url = "https://www.tiktok.com/@0_szaby_0/video/7289505404126563616?_t=ZN-8yJ1dr3ODmo&_r=1"
 
 async def main():
     async with async_playwright() as p:
